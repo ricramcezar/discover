@@ -131,6 +131,11 @@ ul li a:hover {
   border: 1.5px solid var(--text-color);
 }
 
+#bt-pronsig {
+  /* text-decoration: underline; */
+  font-size: 1.4em;
+}
+
 /* social links */
 #social-links {
   display: flex;
